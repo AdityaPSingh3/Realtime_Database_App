@@ -1,0 +1,2 @@
+rootProject.name = "Realtime_Database_App"
+include ':app'
